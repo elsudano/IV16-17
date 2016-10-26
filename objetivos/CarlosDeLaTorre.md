@@ -84,3 +84,16 @@ Carlos de la Torre
 - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad. *closes #52*
 - [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push. *closes #53*
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases... *closes #54*
+
+### Objetivos Sesión 6 (02/11/16)
+
+- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+#### Otros objetivos
+
+- [ ] Trabajar con los *toolbelts* de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento para su posible uso dentro y fuera de la asignatura.
+- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
