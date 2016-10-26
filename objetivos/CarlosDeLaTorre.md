@@ -46,9 +46,9 @@ Carlos de la Torre
 ### Otros Objetivos
 
 - [x] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana. *closes #28*
-- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos. *closes #29*
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos. *closes #29*
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas del lenguaje que se use habitualmente de otra forma. *closes #30*
-- [ ] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo. *closes #31*
+- [x] Comprender la utilidad de la virtualización y definición de herramientas de desarrollo. *closes #31*
 - [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto. *closes #33*
 - [ ] Comprender el papel de las *build tools* o herramientas de automatización. *closes #34*
 - [x] Haber usado git para hacer *check-in* en clase. *closes #32*
@@ -56,31 +56,31 @@ Carlos de la Torre
 
 ## Objetivos Sesión 4 (13/10/16)
 
-- [x] Terminar la configuración de los sistemas de integración continua
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Terminar la configuración de los sistemas de integración continua *closes #36*
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción. *closes #37*
 
 ### Otros objetivos
 
-- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
-- [ ] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
-- [x] Comprender los mecanismos de despliegue automático.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
-- [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
-- [ ] Haber usado git para hacer *check-in* en clase.
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente. *closes #38*
+- [x] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift. *closes #39*
+- [x] Comprender los mecanismos de despliegue automático. *closes #40*
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. *closes #41*
+- [ ] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.  *closes #42*
+- [x] Haber usado git para hacer *check-in* en clase. *closes #43*
 
 ### Objetivos Sesión 5 (27/10/16)
 
-- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
-- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
-- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
-- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
-- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [ ] Resolver los problemas que surjan en los primeros despliegues.
-- [x] Haber usado git para hacer *check-in* en clase.
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales. *closes #44*
+- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura. *closes #45*
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones. *closes #46*
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo. *closes #47*
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad. *closes #48*
+- [ ] Resolver los problemas que surjan en los primeros despliegues. *closes #49*
 
 #### Otros objetivos
 
-- [ ] Darse de alta y probar diferentes servicios PaaS.
-- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Haber usado git para hacer *check-in* en clase. *closes #50*
+- [x] Darse de alta y probar diferentes servicios PaaS. *closes #51*
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad. *closes #52*
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push. *closes #53*
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases... *closes #54*
